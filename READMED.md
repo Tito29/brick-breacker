@@ -1,13 +1,3 @@
-# brick-breackerthis
-is
-a
-check
-up
-to
-see
-if
-this
-works
 this
 is
 added
